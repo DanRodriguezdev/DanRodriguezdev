@@ -28,6 +28,7 @@ sou fascinado por tecnológia desde criança e atualmente tenho me dedicado a me
   - BootStrap
   - PHP
   - MySQL
+  - Laravel
 
 
 ## Meus dados no Github
