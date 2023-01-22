@@ -29,6 +29,8 @@ sou fascinado por tecnológia desde criança e atualmente tenho me dedicado a me
   - PHP
   - MySQL
   - Laravel
+  - React.js
+  - Angular 
 
 
 ## Meus dados no Github
