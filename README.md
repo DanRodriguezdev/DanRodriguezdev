@@ -10,7 +10,7 @@
 
 <h3 align="center">  <br>
 
-Olá, eu sou o Daniel Rodrigues 🇧🇷
+Olá, eu sou o Daniel Rodriguez 🇧🇷
 <br>
 
 </h3>
