@@ -16,8 +16,7 @@ Olá, eu sou o Daniel Rodriguez 🇧🇷
 </h3>
 
 ```
-Estudante de Analise e Desenvolvimento de Sistemas  pela Anhanguera, 
-sou fascinado por tecnológia desde criança e atualmente tenho me dedicado a me tornar um dev fullstack.
+Sou um estudante de análise e desenvolvimento de sistemas, entusiasta em novas tecnologias, com o intuito de colaborar com boas práticas e inovar no uso de minhas habilidades técnicas e de valores para ajudar a desenvolver o futuro.
 ```
 ## Tecnologias que estou estudando atualmente 💻
 
