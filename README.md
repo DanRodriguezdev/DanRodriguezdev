@@ -39,6 +39,5 @@ Sou um profissional formado em Análise e Desenvolvimento de Sistemas, com uma p
 
 
 
-[![DanRodriguezdev](https://github-readme-stats.vercel.app/api/top-langs/?username=DanRodriguezdev&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/DanRodriguezdev/)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanRodriguezdev&layout=compact&theme=tokyonight) -->
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+
