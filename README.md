@@ -16,20 +16,17 @@ Olá, eu sou o Daniel Rodriguez 🇧🇷
 </h3>
 
 ```
-Sou um estudante de análise e desenvolvimento de sistemas, entusiasta em novas tecnologias, com o intuito de colaborar com boas práticas e inovar no uso de minhas habilidades técnicas e de valores para ajudar a desenvolver o futuro.
+Sou um profissional formado em Análise e Desenvolvimento de Sistemas, com uma pequena experiência na área. Tenho um profundo interesse por novas tecnologias e estou sempre atualizado sobre as últimas tendências. Meu objetivo é colaborar com boas práticas e inovar no uso das minhas habilidades técnicas e valores para contribuir no desenvolvimento do futuro.
 ```
 ## Tecnologias que estou estudando atualmente 💻
 
   - HTML
   - CSS
   - JavaScript
-  - jQuery
   - BootStrap
   - PHP
-  - MySQL
   - Laravel
   - React.js
-  - Angular 
 
 
 ## Meus dados no Github
